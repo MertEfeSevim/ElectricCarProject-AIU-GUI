@@ -1,7 +1,7 @@
 class GUI (object):
     def __init__(self):
         self.root = Tk()
-        self.root.attributes('-fullscreen',True)
+        #self.root.attributes('-fullscreen',True)
 
         #Deneme değerleri
         self.variable = StringVar()
@@ -18,14 +18,17 @@ class GUI (object):
         self.curr    = StringVar()
         self.speed   = StringVar()
 
+        #AIU Logo
+        self.logo = PhotoImage(file="Logo.png")
         #Frame
         self.frame = Frame(self.root)
         self.frame.pack(side=LEFT,fill=BOTH,expand=YES)
-        self.label20= Label(self.frame,text="AIU")
-        self.label1 = Label(self.frame,text="Voltage")
-        self.label2 = Label(self.frame,text="Temperature")
-        self.label3 = Label(self.frame,text="Current")
-        self.label4 = Label(self.frame,text="Speed")
+        #self.label20= Label(self.frame,text="AIU", font=(20,20))
+        self.label20 = Label(self.frame, compound=CENTER, image=self.logo)
+        self.label1 = Label(self.frame,text="Voltage", font=(20,20), foreground="blue")
+        self.label2 = Label(self.frame,text="Temperature", font=(20,20), foreground="red")
+        self.label3 = Label(self.frame,text="Current", font=(20,20), foreground="gold")
+        self.label4 = Label(self.frame,text="Speed", font=(20,20), foreground="purple")
 
         #Frame1
         self.frame1 = Frame(self.root)
