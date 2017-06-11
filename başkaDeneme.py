@@ -20,7 +20,8 @@ class GUI (object):
         self.speed   = StringVar()
 
         #AIU Logo
-        self.logo = PhotoImage(file="Logo.png")
+        self.logo = PhotoImage(file="Logo.gif")
+
         #Frame
         self.frame = Frame(self.root)
         self.frame.pack(side=TOP,fill=BOTH,expand=YES)
@@ -35,6 +36,7 @@ class GUI (object):
         self.label7 = Label(self.frame1,text="Maximum", font=(20,20),foreground="green")
         self.labelTotal = Label(self.frame1, text="Total val.", font=(20, 20), foreground="gray")
         self.label0 = Label(self.frame1,textvariable=self.variable, font=(20,20), foreground="blue")   #variable yerine remChar gelecek
+
 
         #Frame2
         self.frame2 = Frame(self.root)
@@ -53,6 +55,7 @@ class GUI (object):
         self.label12 = Label(self.frame3,textvariable=self.variable, font=(14, 14,"bold"), background="light green")
         self.label13 = Label(self.frame3,textvariable=self.variable, font=(14, 14,"bold"), foreground="green", background="light green")
         self.labelSpace = Label(self.frame3, text="-", font=(14, 14, "bold"), foreground="gray", background="light green")
+
 
         #Frame4
         self.frame4 = Frame(self.root)
@@ -128,6 +131,5 @@ class GUI (object):
 
 if __name__=='__main__':
     from tkinter import *
-    import tkinter.font
     from tkinter.ttk import *
     GUI().run()
