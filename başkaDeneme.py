@@ -25,7 +25,6 @@ class GUI (object):
         self.frame.pack(side=LEFT,fill=BOTH,expand=YES)
         #self.label20= Label(self.frame,text="AIU", font=(20,20))
         self.label20 = Label(self.frame, compound=CENTER, image=self.logo)
-        self.label20 = self.label20.resize((200,300))
         self.label1 = Label(self.frame,text="Voltage", font=(20,20), foreground="blue")
         self.label2 = Label(self.frame,text="Temperature", font=(20,20), foreground="red")
         self.label3 = Label(self.frame,text="Current", font=(20,20), foreground="gold")
