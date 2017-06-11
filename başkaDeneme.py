@@ -21,6 +21,7 @@ class GUI (object):
         #Frame
         self.frame = Frame(self.root)
         self.frame.pack(side=LEFT,fill=BOTH,expand=YES)
+        self.label20= Label(self.frame,text="AIU")
         self.label1 = Label(self.frame,text="Voltage")
         self.label2 = Label(self.frame,text="Temperature")
         self.label3 = Label(self.frame,text="Current")
@@ -65,6 +66,7 @@ class GUI (object):
 
 
     def grid(self):
+        self.label20.pack(side=TOP,fill=BOTH,expand=YES)
         self.label1.pack(side=TOP,fill=BOTH,expand=YES)
         self.label2.pack(side=TOP,fill=BOTH,expand=YES)
         self.label3.pack(side=TOP,fill=BOTH,expand=YES)
@@ -113,6 +115,6 @@ class GUI (object):
 
 if __name__=='__main__':
     from tkinter import *
-    from tkinter import font
+    import tkinter.font
     from tkinter.ttk import *
     GUI().run()
