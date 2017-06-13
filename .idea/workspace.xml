@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e48ff2-0f8d-4b84-b80f-c4915415f925" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ElectricCarProject-AIU-GUI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AIU-GUI.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/başkaDeneme.py" afterPath="$PROJECT_DIR$/başkaDeneme.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telemetry.txt" afterPath="$PROJECT_DIR$/telemetry.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,14 +28,18 @@
       <file leaf-file-name="başkaDeneme.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/başkaDeneme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1185">
+              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding>
+                <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+                <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+                <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AIU-GUI.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AIU-GUI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AIU-GUI.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="419">
@@ -54,6 +50,36 @@
                 <element signature="e#5942#6030#0" expanded="false" />
                 <element signature="e#6061#6152#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="display-values.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/display-values.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="git.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/git.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="898">
+              <caret line="214" column="0" lean-forward="true" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,6 +116,7 @@
         <option value="$PROJECT_DIR$/yedek.py" />
         <option value="$PROJECT_DIR$/başkaDeneme.py" />
         <option value="$PROJECT_DIR$/AIU-GUI.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -118,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,6 +160,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,7 +476,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16727717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16910867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -487,9 +514,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/başkaDeneme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1140">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yedek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIU-GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+          <folding>
+            <element signature="e#5534#5913#0" expanded="false" />
+            <element signature="e#5800#5886#0" expanded="false" />
+            <element signature="e#5942#6030#0" expanded="false" />
+            <element signature="e#6061#6152#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -497,7 +549,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/başkaDeneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -513,7 +581,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -529,7 +601,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,7 +613,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -545,7 +625,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -554,7 +638,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,7 +653,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -574,13 +666,6 @@
     <entry file="file://$PROJECT_DIR$/another.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-631">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -626,9 +711,13 @@
     <entry file="file://$PROJECT_DIR$/örnek.py" />
     <entry file="file://$PROJECT_DIR$/başkaDeneme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1185">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <marker date="1497222458000" expanded="true" signature="43:1144" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6162:6550" ph="..." />
+            <marker date="1497222458000" expanded="true" signature="6424:6523" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -650,6 +739,30 @@
             <element signature="e#5942#6030#0" expanded="false" />
             <element signature="e#6061#6152#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/display-values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="214" column="0" lean-forward="true" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
