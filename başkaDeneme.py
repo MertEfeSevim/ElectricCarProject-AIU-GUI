@@ -1,7 +1,7 @@
 class GUI (object):
     def __init__(self):
         self.root = Tk()
-        #self.root.attributes('-fullscreen',True)
+        self.root.attributes('-fullscreen',True)
         self.root.title("AIU Telemetry")
 
         #Deneme değerleri
@@ -20,7 +20,8 @@ class GUI (object):
         self.speed   = StringVar()
 
         #AIU Logo
-        self.logo = PhotoImage(file="Logo.png")
+        self.logo = PhotoImage(file="Logo.gif")
+
         #Frame
         self.frame = Frame(self.root)
         self.frame.pack(side=TOP,fill=BOTH,expand=YES)
@@ -120,6 +121,5 @@ class GUI (object):
 
 if __name__=='__main__':
     from tkinter import *
-    import tkinter.font
     from tkinter.ttk import *
     GUI().run()
