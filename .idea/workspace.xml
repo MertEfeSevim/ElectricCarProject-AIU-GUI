@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e48ff2-0f8d-4b84-b80f-c4915415f925" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetry.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/ANKA&quot;17/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI-Ard.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/GUI-Ard.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI-Telemetry.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/GUI-Telemetry.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/GUI.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Logo.gif" afterPath="$PROJECT_DIR$/ANKA&quot;17/Logo.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Logo.png" afterPath="$PROJECT_DIR$/ANKA&quot;17/Logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/another.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/another.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/başkaDeneme.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/başkaDeneme.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/d.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/deneme.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/deneme.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/display-values.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/display-values.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/git.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/git.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reedRole.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/reedRole.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reedRole1.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/reedRole1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sonDeneme.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/sonDeneme.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/splitDeneme.py" afterPath="$PROJECT_DIR$/ANKA&quot;17/splitDeneme.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,7 +63,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,6 +74,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -100,6 +83,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -380,6 +364,9 @@
       <option name="presentableId" value="Default" />
       <updated>1497117662712</updated>
       <workItem from="1504869378320" duration="104000" />
+      <workItem from="1504869581602" duration="741000" />
+      <workItem from="1504945495343" duration="9000" />
+      <workItem from="1504946445504" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Commentler eklendi">
       <created>1497181021503</created>
@@ -392,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104000" />
+    <option name="totallyTimeSpent" value="879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -437,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="95" column="15" lean-forward="false" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="91" lean-forward="false" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="95" column="15" lean-forward="false" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="91" lean-forward="false" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="91" lean-forward="false" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="95" column="15" lean-forward="false" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="91" lean-forward="false" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
